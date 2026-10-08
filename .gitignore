@@ -1,0 +1,14 @@
+# Paper PDFs (copyright, size)
+papers/*.pdf
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+# OS / editor
+.DS_Store
+Thumbs.db
+~$*
